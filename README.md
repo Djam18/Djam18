@@ -58,7 +58,7 @@ Hobbies: [
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
+<img src="https://static-00.iconduck.com/assets.00/laravel-plain-wordmark-icon-432x512-iduca620.png" alt="Laravel" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
@@ -68,8 +68,8 @@ Hobbies: [
 
 <h2> 📈 &nbsp;GitHub History!</h2>
 <a href="https://github.com/Djam18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Djam18&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djam18&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Djam18&include_all_commits=true&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djam18&include_all_commits=true&theme=noctis_minimus&layout=compact" />
 </a>
 
 ----
