@@ -68,8 +68,9 @@ Hobbies: [
 
 <h2> 📈 &nbsp;GitHub History!</h2>
 <a href="https://github.com/Djam18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Djam18&include_all_commits=true&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djam18&include_all_commits=true&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Djam18&theme=noctis_minimus&show_icons=true&include_all_commits=true&show_rank=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djam18&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Djam18" />
 </a>
 
 ----
