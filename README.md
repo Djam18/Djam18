@@ -102,21 +102,6 @@ Laravel Ecosystem:
   propwise: "Property management platform (Laravel, Livewire 4, Tailwind 4)"
   snap-feedback: "Embeddable feedback widget <15KB (Alpine.js)"
 ```
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Djamal's GitHub Stats](https://github-readme-stats-git-masterrstats-mwendwa99.vercel.app/api?username=Djam18&theme=radical&show_icons=true&include_all_commits=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Djam18&theme=radical&layout=compact&hide_border=true&langs_count=8)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Djam18&theme=radical&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ### 🎯 Interests
